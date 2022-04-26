@@ -1,3 +1,29 @@
 Link para comandos básicos do git: https://comandosgit.github.io/
 
-O GIT Bash é um terminal extendido.
+Anotações de aprendizado para o gerenciamento de repositórios: 
+
+- O GIT Bash é um terminal extendido.
+
+- Primeiro: Realizar o downlaod do Git Bash. 
+
+- Segundo: Criar um repositório na plataforma do Git hub na Web. 
+
+- Terceiro: Copiar o link do repositório do Git Hub na parte Code, 
+e realizar o seguinte comando no Git cmd (Git Bash): 
+git clone (Link). 
+
+- Quarto: O seu repostiório estará clonado no seu computador. Pelo
+git bash você deverá digitar: cd (o nome do repostório). Assim, 
+você estará na pasta. 
+
+- Quinto: Crie um arquivo normalmente dentro da pasta e depois, 
+para atualizar o repositório, faça os seguintes comandos: 
+	- git status 
+	- git add . 
+	- git status
+	- git commit -m "Inclusão das anotações do curso Git/Git Hub."
+	- git status 
+	- git push origin main 
+	
+- Após eles, o seu reposítório estará atualizado. Qualquer mudança na pasta, 
+você poderá realizar essa lista de comandos e atualizar no repositório online.
