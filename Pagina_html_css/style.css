@@ -1,0 +1,34 @@
+.text 
+{
+	color: blue;
+	padding: 5%;
+	margin: 5%;
+	border: 2px solid black;
+	font-family: verdana, arial;
+}
+#title
+{
+	color: red;
+	margin: 0% 40%;
+	font-family: verdana;
+}
+
+#img
+{
+	background: gray;
+	width: 100%;
+}
+.sin
+{
+	padding-left: 10%;
+}
+ul
+{
+	list-style-type: none;
+	padding-left: 7%;
+	
+}
+li a
+{
+	text-decoration: none;
+}
